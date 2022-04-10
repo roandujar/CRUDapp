@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    width: 100%;
+    background-image: linear-gradient(to right, #09164D, #0D3C8B);
+}
+
+.navbar-brand{
+    color: white!important;
+    font-size: 30px;
+}
+
+form{
+    width: 30%;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+label{
+    font-size: 20px;
+}
